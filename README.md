@@ -2,4 +2,4 @@
 
 Assignment task and work I have done
 
-Semester 2 2021
+Trimester 2, 2021
