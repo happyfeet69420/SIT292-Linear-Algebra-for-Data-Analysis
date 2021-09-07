@@ -1,6 +1,6 @@
 # SIT292-Linear-Algebra-for-Data-Analysis
 
-SIT292 Linear Algebra for Data Analysis Assignment
+SIT292 Linear Algebra for Data Analysis Assignments
 
 Assignment task and work I have done
 
